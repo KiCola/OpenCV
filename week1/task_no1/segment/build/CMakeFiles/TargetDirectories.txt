@@ -1,0 +1,3 @@
+/home/zero/pan/opencv_ws/week1/task_no1/segment/build/CMakeFiles/rebuild_cache.dir
+/home/zero/pan/opencv_ws/week1/task_no1/segment/build/CMakeFiles/edit_cache.dir
+/home/zero/pan/opencv_ws/week1/task_no1/segment/build/CMakeFiles/segment.dir
